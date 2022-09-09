@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SingleInstanceExample.qml</file>
+        <file>ListExample.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>star.svg</file>
+        <file>edit.svg</file>
+        <file>EditImageURLPopup.qml</file>
+    </qresource>
+</RCC>
